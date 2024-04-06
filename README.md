@@ -12,26 +12,3 @@ Technologies Used
 React.js: A popular JavaScript library for building user interfaces.
 Frankfurter API: An API that provides real-time exchange rate data.
 
-How to Use
-Clone the Repository: Clone the repository to your local machine using Git.
-
-bash
-Copy code
-git clone https://github.com/your-username/currency-converter.git
-Install Dependencies: Navigate into the project directory and install dependencies using npm or yarn.
-
-bash
-Copy code
-cd currency-converter
-npm install
-Start the Development Server: Run the development server to launch the app locally.
-
-bash
-Copy code
-npm start
-Open the App: Open your web browser and go to http://localhost:3000 to access the Currency Converter app.
-
-Convert Currencies: Select the "From" and "To" currencies from the dropdown menus, input the amount you want to convert, and click the "Convert" button to see the converted amount.
-
-Contributing
-Contributions are welcome! If you have any suggestions for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request.
